@@ -1,0 +1,2 @@
+# my-stock-monitor
+none
